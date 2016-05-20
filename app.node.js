@@ -707,12 +707,12 @@ module.exports =
           _react2['default'].createElement(
             'h1',
             null,
-            'About Us'
+            'About Me'
           ),
           _react2['default'].createElement(
             'p',
             null,
-            'Coming soon.'
+            'I am an engineer who is classically trained in pure mathematics and control systems. Throughout my career I have focused my efforts on solving challenging high-impact problems.'
           )
         );
       }
